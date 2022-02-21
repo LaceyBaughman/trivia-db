@@ -1,17 +1,32 @@
 /* BASIC STYLES HERE */
 .q-card {
-  background-color: azure;
-  border: #0e2147;
+  border-top: #0e2147;
+  border-left: #0e2147;
+  border-right: #0e2147;
+  background-color: #FFFFFF;
+  
   min-width: 500px;
   margin-left: 50px;
   margin-top: 50px;
   padding: 3em;
 }
 
-.btn-div {
-  background-color: azure;
-  border-style: solid;
-  border-color: #0e2147;
+.t-f-div {
+  background-color: #FFFFFF;
+ 
+  border-left: #0e2147;
+  border-right: #0e2147;
+  min-width: 500px;
+  margin-left: 50px;
+  padding: 10px;
+}
+
+.next-q-div {
+  background-color: #FFFFFF;
+  
+  border-left: #0e2147;
+  border-right: #0e2147;
+  border-bottom: #0e2147;
   min-width: 500px;
   margin-left: 50px;
   padding: 10px;
@@ -25,7 +40,7 @@ margin-right: 10px;
 }
 
 .f-btn {
-  background-color: cornflowerblue;
+background-color: cornflowerblue;
 color: aliceblue;
 min-width: 130px;
 margin-left: 10px;
