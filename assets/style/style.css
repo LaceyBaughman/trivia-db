@@ -1,1 +1,39 @@
 /* BASIC STYLES HERE */
+.q-card {
+  background-color: azure;
+  border: #0e2147;
+  min-width: 500px;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 3em;
+}
+
+.btn-div {
+  background-color: azure;
+  border-style: solid;
+  border-color: #0e2147;
+  min-width: 500px;
+  margin-left: 50px;
+  padding: 10px;
+}
+
+.t-btn {
+background-color: cornflowerblue;
+color: aliceblue;
+min-width: 130px;
+margin-right: 10px;
+}
+
+.f-btn {
+  background-color: cornflowerblue;
+color: aliceblue;
+min-width: 130px;
+margin-left: 10px;
+}
+
+.new-q {
+  background-color: 
+  #0e2147;
+  min-width: 300px;
+  color: aliceblue;
+}
