@@ -30,4 +30,8 @@ export class QuestionsController {
       Pop.toast(error.message, 'Error')
     }
   }
+
+  triviaAnswer(id, answer) {
+    questionsService.triviaAnswer(id, answer)
+  }
 }

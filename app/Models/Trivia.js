@@ -2,6 +2,8 @@
 
 export class Trivia {
   constructor(data) {
-    this.question = data.question
+    this.id = data.id
+    this.answer = data.correct_answer
+
   }
 }
